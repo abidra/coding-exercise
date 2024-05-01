@@ -1,6 +1,14 @@
 # coding-exercise
 Coding Exercise For Candidates
 
+### Install dependencies:
+npm install
+
+### Run app:
+npx ts-node src/index.ts
+
+### Run test:
+npm test
 
 ### Car Park Management System Coding Exercise
 
